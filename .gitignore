@@ -1,7 +1,7 @@
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
 
-# Created by https://www.toptal.com/developers/gitignore/api/macos,swift,swiftpackagemanager
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,swift,swiftpackagemanager
+# Created by https://www.toptal.com/developers/gitignore/api/swiftpackagemanager,swift,macos,xcode
+# Edit at https://www.toptal.com/developers/gitignore?templates=swiftpackagemanager,swift,macos,xcode
 
 ### macOS ###
 # General
@@ -121,7 +121,24 @@ xcuserdata
 *.xcodeproj
 
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,swift,swiftpackagemanager
+### Xcode ###
+# Xcode
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+
+
+
+## Gcc Patch
+/*.gcno
+
+### Xcode Patch ###
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
+
+# End of https://www.toptal.com/developers/gitignore/api/swiftpackagemanager,swift,macos,xcode
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
