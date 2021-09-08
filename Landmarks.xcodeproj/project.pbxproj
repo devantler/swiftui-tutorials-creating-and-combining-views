@@ -21,7 +21,6 @@
 		0AC3710B26E7C10500590EE9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0AC3710D26E7C10500590EE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AC3711026E7C10500590EE9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		0AC3711226E7C10500590EE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AC3711B26E7C66300590EE9 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		0AC3711D26E7C73600590EE9 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -59,7 +58,6 @@
 				0AC3710926E7C10500590EE9 /* LandmarksApp.swift */,
 				0AC3710B26E7C10500590EE9 /* ContentView.swift */,
 				0AC3710D26E7C10500590EE9 /* Assets.xcassets */,
-				0AC3711226E7C10500590EE9 /* Info.plist */,
 				0AC3710F26E7C10500590EE9 /* Preview Content */,
 				0AC3711B26E7C66300590EE9 /* CircleImage.swift */,
 				0AC3711D26E7C73600590EE9 /* MapView.swift */,
